@@ -1,0 +1,6 @@
+2024/03/16-15:09:03.306 204 Reusing MANIFEST C:\Users\mateus\Desktop\Nodejs\send-message-whatsapp\tokens\ws-sender-dev\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/16-15:09:03.306 204 Recovering log #322
+2024/03/16-15:09:03.349 204 Reusing old log C:\Users\mateus\Desktop\Nodejs\send-message-whatsapp\tokens\ws-sender-dev\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000322.log 
+2024/03/16-15:09:29.996 204 Level-0 table #330: started
+2024/03/16-15:09:30.043 204 Level-0 table #330: 1074459 bytes OK
+2024/03/16-15:09:30.049 204 Delete type=0 #322

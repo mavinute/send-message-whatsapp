@@ -1,0 +1,21 @@
+{
+  "name": "send-message-whatsapp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "rimraf ./build && tsc",
+    "dev": "nodemon",
+    "start": "npm-run build && node build/index.js"
+  },
+  "devDependencies": {
+    "@types/node": "17.0.21",
+    "ts-node": "10.5.0",
+    "typescript": "^5.4.2"
+  },
+  "dependencies": {
+    "nodemon": "2.0.15",
+    "rimraf": "3.0.2",
+    "venom-bot": "4.0.6"
+  }
+}

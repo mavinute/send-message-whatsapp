@@ -1,0 +1,15 @@
+2024/03/16-15:09:50.642 1178 Reusing MANIFEST C:\Users\mateus\Desktop\Nodejs\send-message-whatsapp\tokens\ws-sender-dev\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/03/16-15:09:50.643 1178 Recovering log #329
+2024/03/16-15:09:50.643 1178 Reusing old log C:\Users\mateus\Desktop\Nodejs\send-message-whatsapp\tokens\ws-sender-dev\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000329.log 
+2024/03/16-15:09:52.376 aa4 Compacting 1@1 + 4@2 files
+2024/03/16-15:09:52.462 aa4 Generated table #332@1: 45087 keys, 2212071 bytes
+2024/03/16-15:09:52.549 aa4 Generated table #333@1: 14631 keys, 2197810 bytes
+2024/03/16-15:09:52.654 aa4 Generated table #334@1: 65858 keys, 2215637 bytes
+2024/03/16-15:09:52.682 aa4 Generated table #335@1: 22825 keys, 498716 bytes
+2024/03/16-15:09:52.682 aa4 Compacted 1@1 + 4@2 files => 7124234 bytes
+2024/03/16-15:09:52.687 aa4 compacted to: files[ 0 0 4 0 0 0 0 ]
+2024/03/16-15:09:52.688 aa4 Delete type=2 #324
+2024/03/16-15:09:52.688 aa4 Delete type=2 #325
+2024/03/16-15:09:52.688 aa4 Delete type=2 #326
+2024/03/16-15:09:52.688 aa4 Delete type=2 #327
+2024/03/16-15:09:52.688 aa4 Delete type=2 #330
